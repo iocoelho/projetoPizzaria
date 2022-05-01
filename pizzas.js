@@ -1,0 +1,9 @@
+let pizzaJson = [
+    {id:1, name:'Mussarela', img:'images/pizza.png', price:[20.00, 27.50, 32.00], sizes:['100g', '530g', '860g'], description:'A Pizza de Mussarela é coberta com molho de tomate, queijo tipo mussarela, azeitonas pretas e orégano e massa com fermentação natural, oferece mais sabor e qualidade à sua mesa.'},
+    {id:2, name:'Calabresa', img:'images/pizza2.png', price:[30.00, 32.50, 40.00], sizes:['320g', '530g', '860g'], description:'É especialmente preparada com recheio generoso de linguiça calabresa de primeira qualidade, queijo muçarela e orégano. A linguiça calabresa agrega um sabor único e levemente picante à pizza.'},
+    {id:3, name:'Quatro Queijos', img:'images/pizza3.png', price:[33.00, 38.50, 45.00], sizes:['320g', '530g', '860g'], description:'Nossa deliciosa receita leva conta com queijos selecionados e completamente saboroso para te encantar'},
+    {id:4, name:'Americana', img:'images/pizza4.png', price:[30.00, 32.50, 40.00], sizes:['320g', '530g', '860g'], description:'Um verdadeiro clássico. Essa opção traz a combinação de sabores que todo mundo ama e se lembra imediatamente quando pensa em pizza.'},
+    {id:5, name:'Sorvete', img:'images/pizza5.png', price:[28.00, 32.50, 38.00], sizes:['320g', '530g', '860g'], description:'Assusta mas quando experimentar nunca mais ficará sem. Receita especial para te levar a loucura'},
+    {id:6, name:'Moda da Casa', img:'images/pizza6.png', price:[32.00, 37.50, 43.00], sizes:['320g', '530g', '860g'], description:'Um pouco de tudo na medida certa para te surpreender. Uma das mais pedidas no delivery'},
+    {id:7, name:'Chocolate', img:'images/pizza7.png', price:[28.00, 32.50, 38.00], sizes:['320g', '530g', '960g'], description:'Uma super camada de chocolate ao leite, chantilly, e confetes de chocolate criam esse sabor que além de delicioso é viciante'}
+];
